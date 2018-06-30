@@ -53,5 +53,4 @@ class EMR:
 
 
 if __name__ == "__main__":
-  network = EMR()
   import run
